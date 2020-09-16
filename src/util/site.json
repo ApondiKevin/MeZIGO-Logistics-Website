@@ -3,9 +3,9 @@
     "title": "MeZIGO",
     "titleTemplate": "%s",
     "description": "Deliver to a collection point mtaani through the MeZIGO platform",
-    "siteUrl": "https://mezigo.co.ke",
+    "siteUrl": "https://www.mezigo.co.ke",
     "image": "/assets/new-logo-round.png",
     "twitterUsername": "@mee_zigo"
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "UA-176728001-2"
 }
