@@ -48,7 +48,7 @@ const HomePage = ({ data }) => {
           <div className="description" dangerouslySetInnerHTML={{__html: html}}/>
           <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}<span class="icon -right"><RiArrowRightSLine/></span></Link>
           <div className="buttonMargin">
-          <Link to={frontmatter.cta.ctaLink} className="button -outline">View locations<span class="icon -right"><RiArrowRightSLine/></span></Link>
+          <a href="https://www.google.com/maps/d/u/0/edit?mid=1Xv0_ZoYFngVxtJRuM27R9jNcH96KxPzf&ll=-1.279136581826523%2C36.79600558837749&z=12" target="_blank" className="button -outline">View locations<span class="icon -right"><RiArrowRightSLine/></span></a>
           </div>
         </div>
         <div>
