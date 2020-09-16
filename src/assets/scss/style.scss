@@ -270,7 +270,7 @@ article img {
 	transition: background .3s linear;
 	border: 2px solid var(--button-alternate-color);
 	&:hover {
-		background-color: var(--button-color);
+		background-color: var(--button-hover-color);
 		color: var( --button-alternate-color);
 	}
 	&.-outline {
@@ -279,7 +279,7 @@ article img {
 		background: #fff;
 		&:hover {
 			box-shadow: 0 0 1px rgba(0,0,0,0.8);
-			background: #f2f2f2;
+			background: var(--button-hover-color);
 		}
 	}
 	& + .button {
