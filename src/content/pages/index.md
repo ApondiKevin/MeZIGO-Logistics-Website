@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Welcome to MeZIGO
+title: Collect Mtaani
 tagline: Deliver . Track . Manage
 featuredImage: /assets/00100lrportrait_00100_burst20200626142413598_cover.jpg
 cta:
