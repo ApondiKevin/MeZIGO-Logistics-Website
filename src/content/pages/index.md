@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: MeZIGO Logistics
+title: Welcome to MeZIGO
 tagline: Deliver . Track . Manage
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
