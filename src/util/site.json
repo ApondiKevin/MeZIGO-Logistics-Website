@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "MeZIGO",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Deliver to a collection point mtaani through the MeZIGO platform",
+    "siteUrl": "https://mezigo.co.ke",
+    "image": "/assets/new-logo-round.png",
+    "twitterUsername": "@mee_zigo"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
