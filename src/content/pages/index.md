@@ -5,7 +5,7 @@ title: Collect Mtaani
 tagline: Deliver . Track . Manage
 featuredImage: /assets/site-header.jpg
 cta:
-  ctaText: Deliver Now
+  ctaText: Deliver now
   ctaLink: https://collectmtaani.glideapp.io/
 ---
 We have partnered with brick and mortar stores across Kenya to enable you deliver cheaply and conveniently to collection points.
