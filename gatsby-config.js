@@ -79,13 +79,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Foundation`,
-        short_name: `Foundation`,
+        name: `MeZIGO`,
+        short_name: `MeZIGO`,
         start_url: `/`,
-        background_color: `#f7f0eb`,
-        theme_color: `#a2466c`,
+        background_color: `#ffffff`,
+        theme_color: `#003456`,
         display: `standalone`,
-        icon: `static/assets/stackrole.png`,
+        icon: `static/assets/new-logo-round.png`,
       },
     },
     'gatsby-plugin-offline',
