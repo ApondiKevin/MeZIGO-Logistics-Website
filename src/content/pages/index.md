@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Welcome to MeZIGO
 tagline: Deliver . Track . Manage
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/00100lrportrait_00100_burst20200626142413598_cover.jpg
 cta:
   ctaText: Deliver Now
   ctaLink: /about
